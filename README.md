@@ -1,6 +1,6 @@
 # Hi 👋 — welcome to my workshop
 
-I'm a platform product manager with 23+ years spent at the seam where deep technology meets real-world use — distributed systems, data infrastructure, AI platforms, and applied cryptography. Along the way I've built and shipped products across cloud infrastructure, developer platforms, privacy and cryptography, and verifiable AI systems.
+I'm a platform product manager with 23+ years spent at the seam where deep technology meets real-world use — distributed systems, data infrastructure, AI platforms, and applied cryptography. Along the way I've built and shipped products across cloud infrastructure, developer platforms, privacy and cryptography, and verifiable AI & financial systems.
 
 This repo is a map of the things I build to think — open-source projects, prototypes, and demos. Most of it is me chasing a question end to end: *what does it actually take to make this work?* Browse by theme below, or jump straight to whatever caught your eye.
 
