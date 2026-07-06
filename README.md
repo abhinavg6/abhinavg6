@@ -39,6 +39,13 @@ A demo of interbank settlement — within and across countries — built on Sui 
 
 ---
 
+## 🗄️ Sovereign apps — you own the data
+
+**[sui-stack-crm](https://github.com/abhinavg6/sui-stack-crm)**
+A small-team, Airtable-like CRM where the team — not a vendor — owns the data. Records are encrypted in the browser with Seal, stored as content-addressed blobs on Walrus, and gated by an on-chain ACL on Sui, so no operator can read them. A concrete take on what a privacy-first SaaS alternative looks like on the Sui stack.
+
+---
+
 ## 🔑 Cryptographic operations
 
 **[seal-mpc-ops](https://github.com/abhinavg6/seal-mpc-ops)**
