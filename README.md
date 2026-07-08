@@ -25,6 +25,9 @@ Agentic finance on Sui + Seal MPC: AI agents compete with sealed, deposit-backed
 **[seal-programmable-wallet](https://github.com/abhinavg6/seal-programmable-wallet)**
 Seal MPC as the authorization layer for agentic commerce: users grant agents scoped, programmable spending mandates, and an MPC committee — not the agent — decides whether each payment is allowed. A compromised agent can't lift its own limits.
 
+**[confidential-autonomous-treasury](https://github.com/abhinavg6/confidential-autonomous-treasury)**
+"Helm" — an AI agent runs a company's stablecoin treasury on Sui: sweeping idle funds, allocating across vetted venues, replenishing a buffer, and paying vendors under hard limits it can't break. Every action is authorized outside the agent by Seal MPC + on-chain policy, balances and amounts stay encrypted via Confidential Transfers, and a risk committee gets read-only oversight.
+
 **[confidential-payroll-sui](https://github.com/abhinavg6/confidential-payroll-sui)**
 "Stipend" — confidential payroll on Sui. Salaries are encrypted on-chain, each employee sees only their own pay, a finance lead can audit read-only, and employees can prove their income to a lender without revealing any key. Built on Confidential Transfers.
 
