@@ -37,6 +37,9 @@ Seal MPC as the authorization layer for agentic commerce: users grant agents sco
 **[treasury-rfq-demo](https://github.com/abhinavg6/treasury-rfq-demo)**
 A clickable prototype of an institutional treasury workflow on Sui Spheres — scoped multi-dealer RFQs, sealed quotes, loser-blindness, settlement that bridges to public Sui, repo lending, and cause-based regulator reveal. Makes the multi-party privacy story tangible end to end.
 
+**[sui-spheres-supplychain-finance](https://github.com/abhinavg6/sui-spheres-supplychain-finance)**
+A Sui Spheres prototype of supply-chain financing: a commerce group underwrites its merchants against invoices, inventory, and orders using its own private data, while an outside investor fund supplies the capital — funding against redacted, verified positions without ever seeing the merchant's private information.
+
 **[sui-spheres-interbank-settlement](https://github.com/abhinavg6/sui-spheres-interbank-settlement)**
 A demo of interbank settlement — within and across countries — built on Sui Spheres.
 
